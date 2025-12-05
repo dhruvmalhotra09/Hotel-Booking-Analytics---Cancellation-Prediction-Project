@@ -72,15 +72,10 @@ The workflow includes:
 
 <h3><b>Dataset File:</b></h3>
 
-hotel_booking_cleaned.csv
+All datasets used in this project (main cleaned dataset + 3 lookup tables) are available in a single zipped file:  
 
-<h3><b>Lookup tables:</b></h3>
+🔗 **[Hotel_booking_Datasets.zip](./Dataset/Hotel_booking_Datasets.zip)**  
 
-market_segment_lookup
-
-distribution_channel_lookup
-
-country_continent_lookup
 
 # SQL Cleaning & Transformation Workflow
 
